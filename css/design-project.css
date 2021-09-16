@@ -29,8 +29,6 @@ a {
     border: solid white .4em;
     color: white;
     font-family: 'Anton', sans-serif;
-
-
 }
 
 .red-btn {
@@ -52,11 +50,15 @@ a {
 .btn-circle.btn-sm {
     width: 18px;
     height: 18px;
-    padding: 10px;
+    padding: 0;
     margin: 0;
     border-radius: 50%;
-    font-size: .6em;
-    text-align: center;
+    font-size: .5em;
     color: black;
     font-family: 'Anton', sans-serif;
+}
+
+
+.card-body {
+    padding: 1.25rem 0px;
 }
