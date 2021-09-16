@@ -1,4 +1,4 @@
-html, .navbar {
+html, body, .navbar {
     background-color: #f5f5f5;
 }
 
@@ -8,13 +8,55 @@ html, .navbar {
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Abel', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 p {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Abel', sans-serif;
 }
 
 a {
     color: black;
 }
 
+.btn-circle.btn-xl {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 0;
+    border-radius: 50%;
+    font-size: 1em;
+    text-align: center;
+    border: solid white .4em;
+    color: white;
+    font-family: 'Anton', sans-serif;
+
+
+}
+
+.red-btn {
+    background-color: #E6563B;
+}
+
+.orange-btn {
+    background-color: #EB9D3A;
+}
+
+.green-btn {
+    background-color: #7CB06C;
+}
+
+.blue-btn {
+    background-color: #00ABA9;
+}
+
+.btn-circle.btn-sm {
+    width: 18px;
+    height: 18px;
+    padding: 10px;
+    margin: 0;
+    border-radius: 50%;
+    font-size: .6em;
+    text-align: center;
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
