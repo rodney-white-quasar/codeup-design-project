@@ -58,16 +58,9 @@ a {
     font-family: 'Anton', sans-serif;
 }
 
-
 .card-body {
     padding: 1.25rem 0;
 }
-
-/*.logo-img {*/
-/*    position: absolute;*/
-/*    top: -5px;*/
-
-/*}*/
 
 .card {
     background-color: #f5f5f5;
@@ -109,4 +102,11 @@ a {
 /*    position: absolute;*/
 /*    top: 40px;*/
 /*    right: 150px;*/
+/*}*/
+
+
+/*.logo-img {*/
+/*    position: absolute;*/
+/*    top: -5px;*/
+
 /*}*/
