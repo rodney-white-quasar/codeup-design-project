@@ -95,3 +95,18 @@ a {
     position: relative;
     z-index: 1001;
 }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 992px) {
+    .extra-large-fit {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+
+/*#secondary-navbar {*/
+/*    display: flex;*/
+/*    position: absolute;*/
+/*    top: 40px;*/
+/*    right: 150px;*/
+/*}*/
